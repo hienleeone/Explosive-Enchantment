@@ -3,7 +3,7 @@ Plugin Tạo Cúp Nổ (cúp tnt) Cho Các Server Skyblock.⚡🏝️
 
 ## Commit 🛡️
 
-- Tôi cam kết plugin không chứa virus, backdoor hay bất kỳ vấn đề về bảo mật server của bạn!🧤
+Tôi cam kết plugin không chứa virus, backdoor hay bất kỳ vấn đề về bảo mật server của bạn!🧤
 
 ## Setup 🛠️
 
